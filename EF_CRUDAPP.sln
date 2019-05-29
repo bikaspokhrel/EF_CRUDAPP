@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_CRUDAPP", "EF_CRUDAPP\EF_CRUDAPP.csproj", "{BC15F7CF-28B1-4596-87CD-5B0941354189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC15F7CF-28B1-4596-87CD-5B0941354189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC15F7CF-28B1-4596-87CD-5B0941354189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC15F7CF-28B1-4596-87CD-5B0941354189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC15F7CF-28B1-4596-87CD-5B0941354189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A852E045-C5AE-48A2-9E70-72D4CDCAB1F4}
+	EndGlobalSection
+EndGlobal
